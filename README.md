@@ -34,4 +34,10 @@ Ex:- "/var/www/html/Foldername/$projectName"
 PROJ_URL="URL to your project"/$projectName
 Ex:- "http://localhost/Foldername/$projectName"
 
+After all plaese check the permission of the file and run this
+./wordpress.sh
+if you find any permission issue, please chnage the file permission by 
+
+chmod +x /path/to/yourscript.sh
+
 Thank you !
